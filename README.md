@@ -7,3 +7,10 @@ Repositório para fins de compartilhamento de códigos/dataset para o evento Hac
 CODEV_19
 
 Facthus - Uberaba
+
+### Links Úteis
+
+- [Média Móvel](https://www.investopedia.com/terms/m/movingaverage.asp)
+- [Média Móvel](https://otexts.com/fpp2/moving-averages.html)
+- [Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
+- [OpenAI Gpt-3](https://openai.com/blog/openai-api/)
